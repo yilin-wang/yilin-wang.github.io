@@ -4,7 +4,10 @@ Hello! My name is Yi Lin Wang, and I am a junior at Harvard College studying com
 
 ## Projects
 
-Defenses Against Self-Adversarial Attacks in Cycle-Consistent GANs
+[Defenses Against Self-Adversarial Attacks in Cycle-Consistent GANs](https://github.com/yilin-wang/yilin-wang.github.io/blob/master/SelfAdversarialDefenses.pdf)
 
-Harvard Sophomore Housing Using Partitioned Housing Markets
+Reproduction and extension of work done to defend against adversarial attacks in image translation.
 
+[Harvard Sophomore Housing Using Partitioned Housing Markets](https://github.com/yilin-wang/yilin-wang.github.io/blob/master/SophomoreHousing.pdf)
+
+Designs of mechanisms for sophomore housing at Harvard that would factor in student preferences.
