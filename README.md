@@ -4,6 +4,10 @@ Hello! My name is Yi Lin Wang, and I am a junior at Harvard College studying com
 
 ## Projects
 
+[Learning Comprehensively Fair Representations](https://github.com/yilin-wang/yilin-wang.github.io/blob/master/LearningComprehensivelyFair.pdf)
+
+* Learning representations of data that satisfy various definitions of fairness.
+
 [Defenses Against Self-Adversarial Attacks in Cycle-Consistent GANs](https://github.com/yilin-wang/yilin-wang.github.io/blob/master/SelfAdversarialDefenses.pdf)
 
 * Reproduction and extension of work done to defend against adversarial attacks in image translation.
