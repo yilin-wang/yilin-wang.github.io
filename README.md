@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! My name is Yi Lin Wang, and I am a senior at Harvard College studying computer science. I'm interested in designing AI that understands human values, as well as effective altruism and the long term future of human society.
+Hello! My name is Yi Lin. I recently graduated summa cum laude from Harvard with a bachelor's in Computer Science. I am interested in software engineering and data science positions at startups in New York City and Boston.
 
 ## Projects
 
