@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! My name is Yi Lin. I recently graduated summa cum laude from Harvard with a bachelor's in Computer Science. I am interested in software engineering and data science positions at startups in New York City and Boston.
+Hello! My name is Yi Lin. I recently graduated summa cum laude from Harvard with a bachelor's in Computer Science. I am interested in software engineering and data science positions in New York City and Boston.
 
 ## Projects
 
